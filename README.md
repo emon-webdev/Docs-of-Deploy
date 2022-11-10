@@ -6,6 +6,7 @@ List of startToDeploy:
 
 - [netlifyDeploy](#netlifyDeploy)
 - [netlify404](#netlify404)
+- [vercelDeploy](#vercelDeploy)
 
 
 ### netlifyDeploy
@@ -33,7 +34,13 @@ open _redirects file paste it
 /* /index.html 200
 
 ```
+### vercelDeploy
 
+```js
+
+https://fahimahammed-cse.medium.com/deploy-an-express-api-on-vercel-eebc13ace629
+
+```
 
 
 ### Table
