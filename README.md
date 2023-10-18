@@ -74,7 +74,7 @@ Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি
 }
 এরপর Cli দিয়ে deploy করে নিলেই কাজ শেষ , সার্ভার রেডি
 vercel --prod
-
+module.exports = app
 
 ```
 
